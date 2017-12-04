@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Droplet", "Droplet\Droplet.csproj", "{2C5D53A1-AAA4-423F-8C7D-98AD239C4979}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C5D53A1-AAA4-423F-8C7D-98AD239C4979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C5D53A1-AAA4-423F-8C7D-98AD239C4979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C5D53A1-AAA4-423F-8C7D-98AD239C4979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C5D53A1-AAA4-423F-8C7D-98AD239C4979}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {654770E4-51F1-4002-801D-D63478F1F401}
+	EndGlobalSection
+EndGlobal
